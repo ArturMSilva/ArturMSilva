@@ -18,6 +18,38 @@
 </div>
      ═══════════════════════════════════════════════════════════════ -->
 
+## 📊 Estatísticas
+
+<div align="center">
+
+<img width="495" src="https://streak-stats.demolab.com?user=ArturMSilva&hide_border=true&background=0A101F&border=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="Sequência de contribuições" />
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════
+     CARDS DE STATS (Fase 2) — descomente depois de publicar o fork de
+     anuraghazra/github-readme-stats na Vercel e trocar SUA-INSTANCIA.
+     A instância pública está fora do ar (503), por isso não uso ela.
+
+<div align="center">
+  <img width="49%" src="https://SUA-INSTANCIA.vercel.app/api?username=ArturMSilva&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_rank=true&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&bg_color=0A101F" alt="Estatísticas do GitHub" />
+  <img width="49%" src="https://SUA-INSTANCIA.vercel.app/api/top-langs/?username=ArturMSilva&layout=compact&langs_count=8&hide_border=true&title_color=A78BFA&text_color=C9D1D9&bg_color=0A101F" alt="Linguagens mais usadas" />
+</div>
+     ═══════════════════════════════════════════════════════════════ -->
+
+<!-- ═══════════════════════════════════════════════════════════════
+     COBRINHA DE CONTRIBUIÇÕES (Fase 3) — descomente SÓ depois que o
+     workflow snake.yml rodar verde. A branch output não existe antes.
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArturMSilva/ArturMSilva/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArturMSilva/ArturMSilva/output/snake-light.svg" />
+    <img alt="Cobrinha de contribuições" src="https://raw.githubusercontent.com/ArturMSilva/ArturMSilva/output/snake-dark.svg" width="100%" />
+  </picture>
+</div>
+     ═══════════════════════════════════════════════════════════════ -->
+
 ## 🧠 Tecnologias
 
 **Linguagens**
@@ -59,38 +91,6 @@
 ![Git](https://img.shields.io/badge/Git-0A101F?style=for-the-badge&logo=git&logoColor=A78BFA)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=A78BFA)&nbsp;&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-0A101F?style=for-the-badge&logo=figma&logoColor=A78BFA)
-
-## 📊 Estatísticas
-
-<div align="center">
-
-<img width="495" src="https://streak-stats.demolab.com?user=ArturMSilva&hide_border=true&background=0A101F&border=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="Sequência de contribuições" />
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════
-     CARDS DE STATS (Fase 2) — descomente depois de publicar o fork de
-     anuraghazra/github-readme-stats na Vercel e trocar SUA-INSTANCIA.
-     A instância pública está fora do ar (503), por isso não uso ela.
-
-<div align="center">
-  <img width="49%" src="https://SUA-INSTANCIA.vercel.app/api?username=ArturMSilva&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_rank=true&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&bg_color=0A101F" alt="Estatísticas do GitHub" />
-  <img width="49%" src="https://SUA-INSTANCIA.vercel.app/api/top-langs/?username=ArturMSilva&layout=compact&langs_count=8&hide_border=true&title_color=A78BFA&text_color=C9D1D9&bg_color=0A101F" alt="Linguagens mais usadas" />
-</div>
-     ═══════════════════════════════════════════════════════════════ -->
-
-<!-- ═══════════════════════════════════════════════════════════════
-     COBRINHA DE CONTRIBUIÇÕES (Fase 3) — descomente SÓ depois que o
-     workflow snake.yml rodar verde. A branch output não existe antes.
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArturMSilva/ArturMSilva/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArturMSilva/ArturMSilva/output/snake-light.svg" />
-    <img alt="Cobrinha de contribuições" src="https://raw.githubusercontent.com/ArturMSilva/ArturMSilva/output/snake-dark.svg" width="100%" />
-  </picture>
-</div>
-     ═══════════════════════════════════════════════════════════════ -->
 
 ## 🤝 Contato
 
