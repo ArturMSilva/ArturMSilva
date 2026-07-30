@@ -1,0 +1,11 @@
+# Documentos de trabalho — não versionados
+GitHub-Profile-Master-Prompt.pdf
+
+# Sistema operacional
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editores
+.vscode/
+.idea/
